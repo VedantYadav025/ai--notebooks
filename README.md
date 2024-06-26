@@ -1,2 +1,2 @@
 # ai--notebooks
-This repo containts implementations of common ai algorithms 
+This repo containts implementations of common AI algorithms 
